@@ -30,7 +30,7 @@ React, HTML, TypeScript, CSS/SCSS
 
 📂 Projects
 
-🔐 Auth Service (Planned)
+**🔐 Auth Service (Planned)**
 
 Production-style authentication service:
 
@@ -39,7 +39,7 @@ JWT-based authentication
 Role-based authorization (USER / ADMIN)
 Spring Security + PostgreSQL
 
-🛒 Order Management System (Planned)
+**🛒 Order Management System (Planned)**
 
 Backend system simulating real business logic:
 
@@ -48,7 +48,7 @@ Pagination & validation
 Clean layered architecture
 REST API with database integration
 
-🧾 Ticket / Booking System (Planned)
+**🧾 Ticket / Booking System (Planned)**
 
 Real-world backend system:
 
@@ -57,7 +57,7 @@ Error handling & logging
 Dockerized deployment
 Production-like structure
 
-💬 Connex – Real-Time Communication Platform
+**💬 Connex – Real-Time Communication Platform**
 
 Fullstack messaging platform inspired by Discord:
 
