@@ -42,7 +42,7 @@ JWT-based authentication
 Role-based authorization (USER / ADMIN)
 Spring Security + PostgreSQL
 
-
+---
 
 **🛒 Order Management System (Planned)**
 
@@ -53,7 +53,7 @@ Pagination & validation
 Clean layered architecture
 REST API with database integration
 
-
+---
 
 **🧾 Ticket / Booking System (Planned)**
 
@@ -64,7 +64,7 @@ Error handling & logging
 Dockerized deployment
 Production-like structure
 
-
+---
 
 **💬 Connex – Real-Time Communication Platform**
 
