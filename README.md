@@ -6,7 +6,7 @@ Focused on writing clean, maintainable backend services with real-world architec
 
 ---
 
-👨‍💻 Tech Stack
+# 👨‍💻 Tech Stack
 
 **Backend**
 Java, Spring Boot
@@ -26,9 +26,10 @@ Git, Linux, Postman
 
 **Basic / Supporting**
 React, HTML, TypeScript, CSS/SCSS
+
 ---
 
-📂 Projects
+# 📂 Projects
 
 
 
