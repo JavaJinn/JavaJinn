@@ -38,6 +38,7 @@ User registration & login
 JWT-based authentication
 Role-based authorization (USER / ADMIN)
 Spring Security + PostgreSQL
+
 🛒 Order Management System (Planned)
 
 Backend system simulating real business logic:
@@ -46,6 +47,7 @@ Products, orders, user relations
 Pagination & validation
 Clean layered architecture
 REST API with database integration
+
 🧾 Ticket / Booking System (Planned)
 
 Real-world backend system:
