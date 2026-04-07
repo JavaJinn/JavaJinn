@@ -42,6 +42,8 @@ JWT-based authentication
 Role-based authorization (USER / ADMIN)
 Spring Security + PostgreSQL
 
+Repo: https://github.com/JavaJinn/AuthService
+
 ---
 
 **🛒 Order Management System (Planned)**
