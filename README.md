@@ -33,7 +33,7 @@ React, HTML, TypeScript, CSS/SCSS
 
 
 
-**🔐 Auth Service (Planned)**
+**🔐 Auth Service (Work in Progress)**
 
 Production-style authentication service:
 
