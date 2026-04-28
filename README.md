@@ -46,28 +46,6 @@ Repo: https://github.com/JavaJinn/AuthService
 
 ---
 
-**🛒 Order Management System (Planned)**
-
-Backend system simulating real business logic:
-
-Products, orders, user relations
-Pagination & validation
-Clean layered architecture
-REST API with database integration
-
----
-
-**🧾 Ticket / Booking System (Planned)**
-
-Real-world backend system:
-
-Booking or ticket workflows
-Error handling & logging
-Dockerized deployment
-Production-like structure
-
----
-
 **💬 Connex – Real-Time Communication Platform**
 
 Fullstack messaging platform inspired by Discord:
