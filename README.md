@@ -1,8 +1,10 @@
 # 🚀 Java Spring Backend Developer
 
-Backend-focused Software Developer specializing in Java & Spring Boot with strong emphasis on building scalable APIs and data-driven systems.
+Backend-focused Software Developer specializing in Java & Spring Boot, with a strong emphasis on building scalable APIs and data-driven systems. I focus on writing clean, maintainable backend services with real-world architecture, security, and deployment in mind.
 
-Focused on writing clean, maintainable backend services with real-world architecture and deployment.
+Passionate about turning complex requirements into structured, reliable solutions — and making sure everything works not just in theory, but in production.
+
+Currently building and refining business-ready applications, one endpoint at a time.
 
 ---
 
