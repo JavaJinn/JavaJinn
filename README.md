@@ -9,23 +9,25 @@ Focused on writing clean, maintainable backend services with real-world architec
 # 👨‍💻 Tech Stack
 
 **Backend**
-Java, Spring Boot
-Spring Data JPA, Spring Security
+Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, Thymeleaf
 
 **Databases**
-PostgreSQL, MySQL
+PostgreSQL, MySQL, Flyway, SQL, Database Migrations
 
-**APIs**
-REST, OAuth2, JWT
+**APIs & Authentication**
+REST APIs, OAuth2, JWT, Session-Based Authentication, Role-Based Access Control, CSRF Protection, Validation
 
-**DevOps**
-Docker, GitHub Actions
+**DevOps & Deployment**
+Docker, Docker Compose, GitHub Actions, CI/CD, Environment Variables, Application Configuration
 
 **Tools**
-Git, Linux, Postman
+Git, GitHub, Linux, Maven, Postman, pgAdmin, IntelliJ / VS Code
 
-**Basic / Supporting**
-React, HTML, TypeScript, CSS/SCSS
+**Frontend / Supporting**
+HTML, CSS / SCSS, TypeScript, React, Thymeleaf Templates
+
+**Business Application Topics**
+User Management, Login & Registration, Password Hashing, Secure Configuration, Error Handling, Form Validation, Database Design, Clean Project Structure
 
 ---
 
